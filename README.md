@@ -49,7 +49,7 @@
 
 <h3>Statistical Data:</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreGiongo&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreGiongo&show_icons=true&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AlexandreGiongo" 
     bg_color=#808080/></p>
 
